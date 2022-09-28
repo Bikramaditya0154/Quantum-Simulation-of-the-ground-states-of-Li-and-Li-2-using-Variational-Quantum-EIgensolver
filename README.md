@@ -1,0 +1,1 @@
+# Quantum-Simulation-of-the-ground-states-of-Li-and-Li-2-using-Variational-Quantum-EIgensolver
